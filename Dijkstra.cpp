@@ -65,3 +65,5 @@ int main()
 // Phá phá nghịch nghịch xíu :V
 
 // Ngu dốt quá đi :))))
+
+// Thử ngu dốt phát nữa để tự phát hiện khôn :V
