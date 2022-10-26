@@ -1,0 +1,33 @@
+Ma tran ke:
+0  0  0  0  0  0  0  0  0  
+0  0  0  1  0  0  0  0  0  
+0  1  0  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  1  
+0  0  1  0  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  
+0  1  0  1  0  0  0  0  0  
+0  0  0  0  0  0  0  0  0  
+0  1  0  0  1  0  0  0  0  
+Danh sach canh:
+2 4
+3 2
+4 9
+5 3
+7 2
+7 4
+9 2
+9 5
+Danh sach ke:
+2 4
+3 2
+4 9
+5 3
+7 2 4
+9 2 5
+Do thi co huong
+2 co 3 bat vao va co 1 bat ra
+3 co 1 bat vao va co 1 bat ra
+4 co 2 bat vao va co 1 bat ra
+5 co 1 bat vao va co 1 bat ra
+7 co 0 bat vao va co 2 bat ra
+9 co 1 bat vao va co 2 bat ra
